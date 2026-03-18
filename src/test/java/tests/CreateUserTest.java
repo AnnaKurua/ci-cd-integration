@@ -43,3 +43,5 @@ public class CreateUserTest {
                 .statusCode(HttpStatus.SC_BAD_REQUEST);
     }
 }
+
+//This is a test command
